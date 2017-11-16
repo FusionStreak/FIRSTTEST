@@ -43,8 +43,8 @@ int main() {
 	cout << Rect.getArea() << endl;
 
 	Triangle Tri;
-	Tri.setWidth(2);
-	Tri.setHeight(3);
+	Tri.setWidth(3);
+	Tri.setHeight(14);
 	cout << Tri.getArea() << endl;
 	return 0;
 }
